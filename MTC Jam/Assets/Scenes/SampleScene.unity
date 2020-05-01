@@ -12524,10 +12524,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04c0c0949f480d140bcd82c3da797fa8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isFull: 0000
+  isFull: 00000000000000000000
   slots:
   - {fileID: 1676513962}
   - {fileID: 943980759}
+  - {fileID: 1324668064}
+  - {fileID: 1656016251}
+  - {fileID: 458129838}
+  - {fileID: 1080500335}
+  - {fileID: 918155660}
+  - {fileID: 595392149}
+  - {fileID: 128156710}
+  - {fileID: 301834821}
 --- !u!114 &1583653002
 MonoBehaviour:
   m_ObjectHideFlags: 0
